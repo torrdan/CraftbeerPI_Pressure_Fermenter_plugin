@@ -1,4 +1,4 @@
-# CraftbeerPI_costum_plugin
+# CraftbeerPI_Pressure_Fermenter_plugin
 I have 4 unitanks, 600 L each in my brewery. 
 I am currently controlling the temperature during fermentation with the software Craftbeerpi. Actors are solenoid valves controlling a water-glycol cooling jacket. 
 
